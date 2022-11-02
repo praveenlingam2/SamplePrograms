@@ -1,4 +1,4 @@
-//A bank robber is about to break into a bank. The police has been informed and will arrive in c seconds. Before blowing the safe, the robber speaks to the civilians in the room. On average, he says wpm words per minute. After each sentence (including the last one), he pauses for p seconds before continuing.
+package Programs;//A bank robber is about to break into a bank. The police has been informed and will arrive in c seconds. Before blowing the safe, the robber speaks to the civilians in the room. On average, he says wpm words per minute. After each sentence (including the last one), he pauses for p seconds before continuing.
 //        Once he is done with his speech s, he needs t seconds until he is ready to leave again.
 //
 //        Assuming, everything goes according to plan, which of the following cases will occur?
